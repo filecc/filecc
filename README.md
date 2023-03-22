@@ -4,5 +4,11 @@
 - 💞️ I’m looking to collaborate on project involving these technologies
 - Reach me on Frontend Mentor (https://www.frontendmentor.io/profile/filecc)
 
+<p align="center">My Skills (at the moment)</p>
 
+<p align="center">
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nextjs,figma,ps,vercel,postman" />
+     </a>
+</p>
