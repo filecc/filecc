@@ -12,3 +12,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vue,nextjs,figma,ps,vercel,postman" />
      </a>
 </p>
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=filecc&show_icons=true&theme=dark&locale=en" alt="filecc stats" /></p>
