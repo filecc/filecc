@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on project involving these technologies
 - Reach me on Frontend Mentor (https://www.frontendmentor.io/profile/filecc)
 
-<p align="center">My Skills (at the moment)</p>
+<strong align="left">My Skills (at the moment)</strong>
 
-<p align="center">
+<p align="left">
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vue,nuxtjs,react,nextjs,php,figma,ps,vercel,postman&perline=5" />
      </a>
 </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=filecc&show_icons=true&theme=dark&locale=en" alt="filecc stats" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=filecc&show_icons=true&theme=dark&locale=en" alt="filecc stats" /></p>
