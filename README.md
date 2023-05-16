@@ -13,4 +13,4 @@
      </a>
 </p>
 
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=filecc&show_icons=true&theme=dark&locale=en" alt="filecc stats" /></p>
+
