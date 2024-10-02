@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @filecc
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Node and NextJS (and others...)
-- 💞️ I’m looking to collaborate on project involving these technologies
-- Reach me on Frontend Mentor (https://www.frontendmentor.io/profile/filecc)
+- Reach me on my website (https://www.filecc.dev)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=filecc&count_private=true&theme=transparent&showicons=true)]()
 <br>
